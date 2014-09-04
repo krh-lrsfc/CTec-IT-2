@@ -1,4 +1,4 @@
 CTec-IT-2
 =========
 ##Induction
-[Types of data and information](ctec-it-2/induction/types of data and information.md)
+[Types of data and information](Induction/Types%20of%20data%20and%20information)
